@@ -8,3 +8,5 @@ export default function Error404() {
         </div>
     )
 }
+
+// 이 파일은 빌드 타임에 정적 생성 됩니다.
