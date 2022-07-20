@@ -20,5 +20,5 @@ npm run dev
 <br/>
 
 ### ✓ Custom Error Page
-•&nbsp; Client 404 Error &nbsp;: &nbsp;&nbsp;404.js<br/>
-•&nbsp; Server 500 Error &nbsp;: &nbsp;&nbsp;_error.js
+•&nbsp; **Client** &nbsp; ( 404 Error ) &nbsp;: &nbsp;&nbsp;404.js <br/>
+•&nbsp; **Server** &nbsp; ( 500 Error ) &nbsp;: &nbsp;&nbsp;_error.js
