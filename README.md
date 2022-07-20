@@ -12,7 +12,7 @@ npm run build
 npm run start
 ```
 <br/>
-🔔 **Notice** <br/>
+🔔 Notice <br/>
 Production Mode 에서는 Maybelline 브랜드 제품이 나타납니다.
 
 #### ▶ Development Mode
@@ -20,7 +20,7 @@ Production Mode 에서는 Maybelline 브랜드 제품이 나타납니다.
 npm run dev
 ```
 <br/>
-🔔 **Notice** <br/>
+🔔 Notice <br/>
 Development Mode 에서는 Dior 브랜드 제품이 나타납니다.
 
 <br/>
