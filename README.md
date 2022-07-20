@@ -11,11 +11,17 @@ npm run build
 # start
 npm run start
 ```
+<br/>
+> 🔔 Notice
+Production Mode 에서는 Maybelline 브랜드 제품이 나타납니다.
 
 #### ▶ Development Mode
 ```bash
 npm run dev
 ```
+<br/>
+> 🔔 Notice
+Development Mode 에서는 Dior 브랜드 제품이 나타납니다.
 
 <br/>
 
