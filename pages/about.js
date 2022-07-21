@@ -1,8 +1,12 @@
+import Head from 'next/head';
 import { Button, Divider, Form, Header, List, TextArea, Input, Field } from "semantic-ui-react";
 
 export default function About() {
     return (
         <div>
+            <Head>
+                <title>ABOUT | 코딩앙마 - Next.js 강좌</title>
+            </Head>
             <Header as="h3" style={{paddingTop: 40}} color="teal">
                 회사 소개
             </Header>
