@@ -22,6 +22,8 @@ export default function Gnb() {
       // location.href = "/about";
     } else if (data.name === 'empty') {
       router.push("/empty");
+    } else if (data.name === 'admin') {
+      router.push("/admin");
     }
   }
     return (
@@ -39,6 +41,11 @@ export default function Gnb() {
           <Menu.Item
             name='empty'
             active={activeItem === 'empty'}
+            onClick={goLink}
+          />
+          <Menu.Item
+            name='admin'
+            active={activeItem === 'admin'}
             onClick={goLink}
           />
         </Menu>
